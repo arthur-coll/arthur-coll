@@ -29,28 +29,8 @@ I am currently **looking for an internship** as Data Consultant or Data Analyst,
 ### What I'm currently working on
 - Advanced Deep Learning
 - Machine Learning in Network Science
-- Ensemble Learning :wor
+- Ensemble Learning
 - Data Visualization 
 
 ### Previous Projects
 I worked on several project inside and outside of the scope of my master degree. The most important ones are accessible bellow
-
-
-
-
-
-  
-<!--
-**arthur-coll/arthur-coll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
