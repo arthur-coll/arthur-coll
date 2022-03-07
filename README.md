@@ -33,4 +33,4 @@ I am currently **looking for an internship** as Data Consultant or Data Analyst,
 - Data Visualization 
 
 ### Previous Projects
-I worked on several project inside and outside of the scope of my master degree. The most important ones are accessible bellow
+I worked on several project inside and outside of the scope of my master degree. The most important ones are accessible bellow in the *pinned* section.
