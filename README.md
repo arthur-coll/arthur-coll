@@ -1,14 +1,23 @@
 # Hi I'm Arthur👋
-😄 Pronouns: He / Him
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/arthur-coll-16263114b/)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:arthur.coll@essec.edu)
+😄 Pronouns: He / Him   
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coll/)](https://www.linkedin.com/in/arthur-coll-16263114b/)
+[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:arthur.coll@gmail.com)](mailto:arthur.coll@essec.edu)
 
-Welcome to my profile! I'm a doing my master degree in Data Sciences and Business Analytics at [CentraleSupélec & ESSEC](https://www.essec.edu/en/program/mscs/master-data-sciences-business-analytics/), part-time coder and full-time adventure seeker. 
+**Welcome to my profile!**   
+<p align="center">
+<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="160" height="140" /> 
+</p>
+I'm a French student, doing a master degree in *Data Sciences and Business Analytics* at [CentraleSupélec & ESSEC](https://www.essec.edu/en/program/mscs/master-data-sciences-business-analytics/), part-time coder and full-time adventure seeker. :airplane:
 Intrested in any kind of subject related to Machine Learning, AI and Hardware.
 
-I am currently looking for an interning as aa Data Analyst, don't hesitate to contact me !
+
+I am currently looking for an internship as Data Consultant or Data Analyst, don't hesitate to contact me !
+
+**What I'm working on:**
 
 
+
+  
 <!--
 **arthur-coll/arthur-coll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
