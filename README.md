@@ -6,10 +6,9 @@
  
 <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="160" height="140" align="right" /> 
 <div>
-  I'm a French student, doing a master degree in <strong>Data Sciences and Business Analytics</strong> at <a href="https://www.essec.edu/en/program/mscs/master-data-sciences-business-analytics/">CentraleSupélec & ESSEC</a>🎓, part-time coder 💻 and full-time adventure seeker✈️🏄 .  
+ I'm a French Data Scientist working currently for <strong>Artefact</strong>. I have done master degree in <strong>Data Sciences and Business Analytics</strong> at <a href="https://www.essec.edu/en/program/mscs/master-data-sciences-business-analytics/">CentraleSupélec & ESSEC</a>🎓, part-time coder 💻 and full-time adventure seeker✈️🏄 .  
   Intrested in any kind of subject related to <i>Machine Learning, AI and Hardware</i>.
 
-I am currently **looking for an internship** as Data Consultant or Data Analyst, don't hesitate to contact me !
 </div>
 
 **Things I code with**  
